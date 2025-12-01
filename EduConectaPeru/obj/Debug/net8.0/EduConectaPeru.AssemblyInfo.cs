@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduConectaPeru")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84b873ad1fe8c8aa593d691ec4b8f8ac45781494")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e972aeb7472da7349ec3be056bd7ddea82c27865")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduConectaPeru")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduConectaPeru")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

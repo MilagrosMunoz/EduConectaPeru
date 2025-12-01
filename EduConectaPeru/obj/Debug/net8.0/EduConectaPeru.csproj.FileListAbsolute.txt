@@ -7,3 +7,13 @@ D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.Mv
 D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.RazorAssemblyInfo.cache
 D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.RazorAssemblyInfo.cs
 D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.sourcelink.json
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.AssemblyInfo.cs
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.RazorAssemblyInfo.cache
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.RazorAssemblyInfo.cs
+C:\Users\User\Source\Repos\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.sourcelink.json
