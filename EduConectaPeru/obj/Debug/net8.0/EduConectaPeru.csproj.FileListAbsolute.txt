@@ -1,0 +1,9 @@
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.csproj.AssemblyReference.cache
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.AssemblyInfoInputs.cache
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.AssemblyInfo.cs
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.csproj.CoreCompileInputs.cache
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.MvcApplicationPartsAssemblyInfo.cache
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.RazorAssemblyInfo.cache
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.RazorAssemblyInfo.cs
+D:\git\cibertec\EduConectaPeru\EduConectaPeru\obj\Debug\net8.0\EduConectaPeru.sourcelink.json
